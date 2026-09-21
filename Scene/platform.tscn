@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://dh0ey8fc7cyp7"]
+
+[ext_resource type="Texture2D" uid="uid://bofxxq0k450v6" path="res://Assets/spring_.png" id="1_p7ult"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_3bgmg"]
+size = Vector2(27, 6)
+
+[node name="Platform" type="AnimatableBody2D" unique_id=1588343360]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1727997449]
+texture = ExtResource("1_p7ult")
+region_enabled = true
+region_rect = Rect2(96.131714, 95.80696, 32.250885, 10.518227)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1227419148]
+position = Vector2(-0.5, -1)
+shape = SubResource("RectangleShape2D_3bgmg")
+one_way_collision = true
