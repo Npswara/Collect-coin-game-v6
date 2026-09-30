@@ -10,7 +10,7 @@
 
 **Collect Coin Game** is a precision arcade-puzzle game where a seemingly simple goal turns into a mind-bending gauntlet of precision, patience, and route planning.
 
-Your mission sounds straightforward: **collect the coins**. But don't be fooled—the path to victory is packed with intricate map designs, treacherous traps, tight timing windows, and tricky hazards designed to test your limits at every turn.
+Your mission sounds straightforward: **collect the coins**. But don't be fooled the path to victory is packed with intricate map designs, treacherous traps, tight timing windows, and tricky hazards designed to test your limits at every turn.
 
 Getting *most* of the coins won't cut it here. To truly beat the game, you must conquer every map and collect **100% of the coins** scattered across the entire world. One missed coin stands between you and defeat!
 
